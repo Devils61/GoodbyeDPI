@@ -30,9 +30,9 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-#include <stdio.h>
 #include <stdlib.h>
-#include "getline.h"
+#include <stdlib.h>
+#include <getline.h>
 
 #if !HAVE_GETDELIM
 
